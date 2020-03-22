@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Draw</string>
+    <string name="draw_shape">Draw Shape</string>
+    <string name="add_image">Add Image</string>
+    <string name="add_filter">Add Filter</string>
+
+
+
+</resources>
